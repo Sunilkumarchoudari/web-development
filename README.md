@@ -1,5 +1,20 @@
 # nodejs-jscript-web
 
+Road Map to Become a fullstock Developer
+----------------------------------------
+
+Phase -1  -HTML
+Phase -2  -CSS
+Phase -3  -Javascript/ frontend
+Phase -4  -Git /Linux CLI
+Phase -5  -React
+Phase -6  -Node
+Phase -7  -Express
+Phase -8  -Mongo or (Mysql)
+Phase -9  -Backend
+Phase -10 -Your fullstock  developer
+####################################
+
 basic git commands
 ------------------
 
