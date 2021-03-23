@@ -19,7 +19,7 @@ Phase -10 -Your fullstock  developer </br>
 Git-Cheat-Sheet </br>
 ------------------ </br>
 
-
+<h1>Git: Configuration<h1> </br>
 To create new repo-- </br>
 -------------------- </br>
 
