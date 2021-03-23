@@ -33,7 +33,7 @@
 &nbsp;&nbsp;&nbsp;Mongo </br>
 &nbsp;&nbsp;&nbsp;PostgreSQL </br>
 
-&nbsp;<b>Continuous Integration Tools & Automation, Configurations Management Softwares</b>
+&nbsp;<b>Continuous Integration Tools & Automation, Configurations Management Softwares</b> </br>
 &nbsp;&nbsp;&nbsp;Github /Linux CLI </br>
 &nbsp;&nbsp;&nbsp;Gitlab </br>
 &nbsp;&nbsp;&nbsp;Jenkins </br>
@@ -41,10 +41,10 @@
 &nbsp;&nbsp;&nbsp;Docker </br>
 &nbsp;&nbsp;&nbsp;Ansible </br>
 
-&nbsp;<b>Clouds</b>
+&nbsp;<b>Clouds</b> </br>
 &nbsp;&nbsp;&nbsp;Google Cloud </br>
 &nbsp;&nbsp;&nbsp;Aws </br>
-&nbsp;&nbsp;&nbsp;Azure
+&nbsp;&nbsp;&nbsp;Azure </br>
 
 <h1>Git-Cheat-Sheet</h1> </br>
 &nbsp;&nbsp;<h1>Git: Configuration</h1> </br>
@@ -54,7 +54,7 @@
 &nbsp;&nbsp;&nbsp;git config --list </br>
 
 
-<h1>Git: Starting a Respository </h1>
+<h1>Git: Starting a Respository </h1> </br>
 &nbsp;&nbsp;&nbsp;git init </br>
 &nbsp;&nbsp;&nbsp;git status </br>
 
@@ -69,7 +69,7 @@
 &nbsp;&nbsp;&nbsp;git reset <file-name>
 
 
-<h1>Git: Committing to a Repository </h1>
+<h1>Git: Committing to a Repository </h1> </br>
 &nbsp;&nbsp;&nbsp;git init </br>
 &nbsp;&nbsp;&nbsp;git add README.md </br>
 &nbsp;&nbsp;&nbsp;git commit -m "first commit" </br>
