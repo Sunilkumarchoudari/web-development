@@ -49,7 +49,7 @@
 &nbsp;&nbsp;&nbsp;Azure </br>
 
 <h1>Git-Cheat-Sheet</h1> </br>
-&nbsp;&nbsp;<h1>Git: Configuration</h1> </br>
+&nbsp;&nbsp;<b>Git: Configuration</b> </br>
 &nbsp;&nbsp;&nbsp;git config --global user.name "Firstname Lastname" </br>
 &nbsp;&nbsp;&nbsp;git config --global user.email "your-email@your-email provider.com" </br>
 &nbsp;&nbsp;&nbsp;git config --color.ui true </b>
