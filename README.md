@@ -1,7 +1,7 @@
 # Responsive-Web-Development </br>
 #################### </br>
 
-<b>color:red;>Road Map to Become a fullstock Developer<b> </br>
+<b>Road Map to Become a fullstock Developer</b> </br>
 ---------------------------------------- </br>
 
 Phase -1  -HTML </br>
