@@ -28,12 +28,12 @@
 &nbsp;&nbsp;&nbsp;PHP </br>
 &nbsp;&nbsp;&nbsp;Ruby </br>
 &nbsp;&nbsp;&nbsp;Node.js </br>
-&nbsp;&nbsp;&nbsp;Django </br>
 
 &nbsp;&nbsp;<b>DataBases</b></br>
-&nbsp;&nbsp;&nbsp;Mysql </br>
-&nbsp;&nbsp;&nbsp;Mongo </br>
-&nbsp;&nbsp;&nbsp;PostgreSQL </br>
+&nbsp;&nbsp;&nbsp;MySQL (relational) </br>
+&nbsp;&nbsp;&nbsp;Mongo(Non-relational) </br>
+&nbsp;&nbsp;&nbsp;PostgreSQL (relational) </br>
+&nbsp;&nbsp;&nbsp;Firebase (Non-relational) </br>
 
 &nbsp;&nbsp;<b>Continuous Integration Tools & Automation, Configurations Management Softwares</b> </br>
 &nbsp;&nbsp;&nbsp;Github /Linux CLI </br>
@@ -42,11 +42,13 @@
 &nbsp;&nbsp;&nbsp;Postman </br>
 &nbsp;&nbsp;&nbsp;Docker </br>
 &nbsp;&nbsp;&nbsp;Ansible </br>
+&nbsp;&nbsp;&nbsp;Circle CI </br>
 
 &nbsp;<b>Clouds</b> </br>
-&nbsp;&nbsp;&nbsp;Google Cloud </br>
+&nbsp;&nbsp;&nbsp;Google Clouds </br>
 &nbsp;&nbsp;&nbsp;Aws </br>
-&nbsp;&nbsp;&nbsp;Azure </br>
+&nbsp;&nbsp;&nbsp;Azure, Linode </br>
+&nbsp;&nbsp;&nbsp;Heroku, Digital Ocean </br>
 
 <h1>Git-Cheat-Sheet</h1> </br>
 &nbsp;&nbsp;<b>Git: Configuration</b> </br>
