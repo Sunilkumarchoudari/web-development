@@ -20,6 +20,25 @@ Git-Cheat-Sheet </br>
 ------------------ </br>
 
 <h1>Git: Configuration</h1> </br>
+git config --global user.name "Firstname Lastname" </br>
+git config --global user.email "your-email@your-email provider.com" </br>
+git config --color.ui true </b>
+git config --list </br>
+
+
+<h1>Git: Starting a Respository</h1>
+git init </br>
+git status </br>
+
+<h1>Git: Staging Files </h1>
+git add <file-name> </br>
+git add <file-name> <another-file-name> <yet-another-file-name> </br>
+git add . </br>
+git add --all </br>
+git add -A </br>
+git rm cached <file-name> </br>
+git reset <file-name>
+
 To create new repo-- </br>
 -------------------- </br>
 
