@@ -1,39 +1,39 @@
-# Web-development
-####################
+# Web-development </br>
+#################### </br>
 
-Road Map to Become a fullstock Developer
-----------------------------------------
+Road Map to Become a fullstock Developer </br>
+---------------------------------------- </br>
 
-Phase -1  -HTML
-Phase -2  -CSS
-Phase -3  -Javascript/ frontend
-Phase -4  -Git /Linux CLI
-Phase -5  -React
-Phase -6  -Node
-Phase -7  -Express
-Phase -8  -Mongo or (Mysql)
-Phase -9  -Backend
-Phase -10 -Your fullstock  developer
-####################################
+Phase -1  -HTML </br>
+Phase -2  -CSS </br>
+Phase -3  -Javascript/ frontend </br>
+Phase -4  -Git /Linux CLI </br>
+Phase -5  -React </br>
+Phase -6  -Node </br>
+Phase -7  -Express </br>
+Phase -8  -Mongo or (Mysql) </br>
+Phase -9  -Backend </br>
+Phase -10 -Your fullstock  developer </br>
+#################################### </br>
 
-basic git commands
-------------------
+Git-Cheat-Sheet </br>
+------------------ </br>
 
 
-To create new repo--
---------------------
+To create new repo-- </br>
+-------------------- </br>
 
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin "repo url.git"
-git push -u origin main
+git init </br>
+git add README.md </br>
+git commit -m "first commit" </br>
+git branch -M main </br>
+git remote add origin "repo url.git" </br>
+git push -u origin main </br>
 
-To push code into existing repo-
--------------------------------
+To push code into existing repo- </br>
+------------------------------- </br>
 
-…or push an existing repository from the command line
-git remote add origin "repo url.git"
-git branch -M main
-git push -u origin main
+…or push an existing repository from the command line </br>
+git remote add origin "repo url.git" </br>
+git branch -M main </br>
+git push -u origin main </br>
