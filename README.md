@@ -4,99 +4,98 @@
 <b>Road Map to Become a fullstock Developer</b> </br>
 ---------------------------------------- </br>
 <h2>Ultimate full-stock Developer Tools </h2></br>
-<b>Front-End Dev Languages</b> </br>
-&nbsp;&nbsp;HTML </br>
-    CSS </br>
-    Sass </br>
-    Javascript/ frontend </br>
+&nbsp;<b>Front-End Dev Languages</b> </br>
+&nbsp;&nbsp;&nbsp;HTML </br>
+&nbsp;&nbsp;&nbsp;CSS </br>
+&nbsp;Sass </br>
+&nbsp;&nbsp;&nbsp;Javascript/ frontend </br>
 
-<b>Development-Frameworks</b>
-  React </br>
-  Django </br>
-  Spring </br>
-  Angular </br>
-  Vue.js </br>
-  Express.js </br>
-  Ruby on Rails
-  ASP.Net Core </br>
-  Flask </br>
-  Laravel </br>
+&nbsp;<b>Development-Frameworks</b>
+&nbsp;&nbsp;&nbsp;React </br>
+&nbsp;&nbsp;&nbsp;Django </br>
+&nbsp;&nbsp;&nbsp;Spring </br>
+&nbsp;&nbsp;&nbsp;Angular </br>
+&nbsp;&nbsp;&nbsp;Vue.js </br>
+&nbsp;&nbsp;&nbsp;Express.js </br>
+&nbsp;&nbsp;&nbsp;Ruby on Rails
+&nbsp;&nbsp;&nbsp;ASP.Net Core </br>
+&nbsp;&nbsp;&nbsp;Laravel </br>
 
-<b>Back-End</b> </br>
-  Python </br>
-  Java </br>
-  PHP </br>
-  Ruby </br>
-  Node.js </br>
-  Django </br>
+&nbsp;<b>Back-End</b> </br>
+&nbsp;&nbsp;&nbsp;Python </br>
+&nbsp;&nbsp;&nbsp;Java </br>
+&nbsp;&nbsp;&nbsp;PHP </br>
+&nbsp;&nbsp;&nbsp;Ruby </br>
+&nbsp;&nbsp;&nbsp;Node.js </br>
+&nbsp;&nbsp;&nbsp;Django </br>
 
-<b>DataBases</b></br>
-  Mysql </br>
-  Mongo </br>
-  PostgreSQL </br>
+&nbsp;<b>DataBases</b></br>
+&nbsp;&nbsp;&nbsp;Mysql </br>
+&nbsp;&nbsp;&nbsp;Mongo </br>
+&nbsp;&nbsp;&nbsp;PostgreSQL </br>
 
-<b>Continuous Integration Tools & Automation, Configurations Management Softwares</b>
-  Github /Linux CLI </br>
-  Gitlab </br>
-  Jenkins </br>
-  Postman </br>
-  Docker </br>
-  Ansible </br>
+&nbsp;<b>Continuous Integration Tools & Automation, Configurations Management Softwares</b>
+&nbsp;&nbsp;&nbsp;Github /Linux CLI </br>
+&nbsp;&nbsp;&nbsp;Gitlab </br>
+&nbsp;&nbsp;&nbsp;Jenkins </br>
+&nbsp;&nbsp;&nbsp;Postman </br>
+&nbsp;&nbsp;&nbsp;Docker </br>
+&nbsp;&nbsp;&nbsp;Ansible </br>
 
-<b>Clouds</b>
-  Google Cloud </br>
-  Aws </br>
-  Azure
+&nbsp;<b>Clouds</b>
+&nbsp;&nbsp;&nbsp;Google Cloud </br>
+&nbsp;&nbsp;&nbsp;Aws </br>
+&nbsp;&nbsp;&nbsp;Azure
 
-Git-Cheat-Sheet </br>
+<h1>Git-Cheat-Sheet</h1> </br>
 ------------------ </br>
-  <h1>Git: Configuration</h1> </br>
-  ---------------------- </br>
-    git config --global user.name "Firstname Lastname" </br>
-    git config --global user.email "your-email@your-email provider.com" </br>
-    git config --color.ui true </b>
-    git config --list </br>
+&nbsp;&nbsp;<h1>Git: Configuration</h1> </br>
+&nbsp;&nbsp;---------------------- </br>
+&nbsp;&nbsp;&nbsp;git config --global user.name "Firstname Lastname" </br>
+&nbsp;&nbsp;&nbsp;git config --global user.email "your-email@your-email provider.com" </br>
+&nbsp;&nbsp;&nbsp;git config --color.ui true </b>
+&nbsp;&nbsp;&nbsp;git config --list </br>
 
 
 <h1>Git: Starting a Respository </h1>
 ------------------------------- </br>
-  git init </br>
-  git status </br>
+&nbsp;&nbsp;&nbsp;git init </br>
+&nbsp;&nbsp;&nbsp;git status </br>
 
 
 <h1>Git: Staging Files </h1>
 ---------------------- </br>
-  git add <file-name> </br>
-  git add <file-name> <another-file-name> <yet-another-file-name> </br>
-  git add . </br>
-  git add --all </br>
-  git add -A </br>
-  git rm cached <file-name> </br>
-  git reset <file-name>
+&nbsp;&nbsp;&nbsp;git add <file-name> </br>
+&nbsp;&nbsp;&nbsp;git add <file-name> <another-file-name> <yet-another-file-name> </br>
+&nbsp;&nbsp;&nbsp;git add . </br>
+&nbsp;&nbsp;&nbsp;git add --all </br>
+&nbsp;&nbsp;&nbsp;git add -A </br>
+&nbsp;&nbsp;&nbsp;git rm cached <file-name> </br>
+&nbsp;&nbsp;&nbsp;git reset <file-name>
 
 
 <h1>Git: Committing to a Repository </h1>
 ---------------------------------- </br>
-  git init </br>
-  git add README.md </br>
-  git commit -m "first commit" </br>
-  git branch -M main </br>
-  git remote add origin "repo url.git" </br>
-  git push -u origin main </br>
+&nbsp;&nbsp;&nbsp;git init </br>
+&nbsp;&nbsp;&nbsp;git add README.md </br>
+&nbsp;&nbsp;&nbsp;git commit -m "first commit" </br>
+&nbsp;&nbsp;&nbsp;git branch -M main </br>
+&nbsp;&nbsp;&nbsp;git remote add origin "repo url.git" </br>
+&nbsp;&nbsp;&nbsp;git push -u origin main </br>
 
 
 <h1>Git: Pulling and Pushing from and to Repository </h1> </br>
 --------------------------------------------------- </br>
-  git remote add origin "repo url link.git" </br>
-  git push -u origin master </br>
-  git clone <clone-url> </br>
-  git pull </br>
+&nbsp;&nbsp;&nbsp;git remote add origin "repo url link.git" </br>
+&nbsp;&nbsp;&nbsp;git push -u origin master </br>
+&nbsp;&nbsp;&nbsp;git clone <clone-url> </br>
+&nbsp;&nbsp;&nbsp;git pull </br>
 
 
 <h1> Git: Barching </h1> </br>
 ------------------ </br>
-  git branch </br>
-  git branch <name> </br>
-  git checkout <branch-name> </br>
-  git merge <branch-name> </br>
-  git checkout -b <branch-name> </br>
+&nbsp;&nbsp;&nbsp;git branch </br>
+&nbsp;&nbsp;&nbsp;git branch <name> </br>
+&nbsp;&nbsp;&nbsp;git checkout <branch-name> </br>
+&nbsp;&nbsp;&nbsp;git merge <branch-name> </br>
+&nbsp;&nbsp;&nbsp;git checkout -b <branch-name> </br>
