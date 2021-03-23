@@ -18,7 +18,6 @@ Phase -10 -Your fullstock  developer </br>
 
 Git-Cheat-Sheet </br>
 ------------------ </br>
-
 <h1>Git: Configuration</h1> </br>
 ---------------------- </br>
 git config --global user.name "Firstname Lastname" </br>
@@ -32,6 +31,7 @@ git config --list </br>
 git init </br>
 git status </br>
 
+
 <h1>Git: Staging Files </h1>
 ---------------------- </br>
 git add <file-name> </br>
@@ -42,6 +42,7 @@ git add -A </br>
 git rm cached <file-name> </br>
 git reset <file-name>
 
+
 <h1>Git: Committing to a Repository </h1>
 ---------------------------------- </br>
 git init </br>
@@ -51,12 +52,14 @@ git branch -M main </br>
 git remote add origin "repo url.git" </br>
 git push -u origin main </br>
 
+
 <h1>Git: Pulling and Pushing from and to Repository </h1> </br>
 --------------------------------------------------- </br>
 git remote add origin "repo url link.git" </br>
 git push -u origin master </br>
 git clone <clone-url> </br>
 git pull </br>
+
 
 <h1> Git: Barching </h1> </br>
 ------------------ </br>
