@@ -20,17 +20,20 @@ Git-Cheat-Sheet </br>
 ------------------ </br>
 
 <h1>Git: Configuration</h1> </br>
+---------------------- </br>
 git config --global user.name "Firstname Lastname" </br>
 git config --global user.email "your-email@your-email provider.com" </br>
 git config --color.ui true </b>
 git config --list </br>
 
 
-<h1>Git: Starting a Respository</h1>
+<h1>Git: Starting a Respository </h1>
+------------------------------- </br>
 git init </br>
 git status </br>
 
 <h1>Git: Staging Files </h1>
+---------------------- </br>
 git add <file-name> </br>
 git add <file-name> <another-file-name> <yet-another-file-name> </br>
 git add . </br>
@@ -39,9 +42,8 @@ git add -A </br>
 git rm cached <file-name> </br>
 git reset <file-name>
 
-To create new repo-- </br>
--------------------- </br>
-
+<h1>Git: Committing to a Repository </h1>
+---------------------------------- </br>
 git init </br>
 git add README.md </br>
 git commit -m "first commit" </br>
@@ -49,10 +51,17 @@ git branch -M main </br>
 git remote add origin "repo url.git" </br>
 git push -u origin main </br>
 
-To push code into existing repo- </br>
-------------------------------- </br>
+<h1>Git: Pulling and Pushing from and to Repository </h1> </br>
+--------------------------------------------------- </br>
+git remote add origin "repo url link.git" </br>
+git push -u origin master </br>
+git clone <clone-url> </br>
+git pull </br>
 
-…or push an existing repository from the command line </br>
-git remote add origin "repo url.git" </br>
-git branch -M main </br>
-git push -u origin main </br>
+<h1> Git: Barching </h1> </br>
+------------------ </br>
+git branch </br>
+git branch <name> </br>
+git checkout <branch-name> </br>
+git merge <branch-name> </br>
+git checkout -b <branch-name> </br>
