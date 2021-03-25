@@ -14,6 +14,7 @@
 &nbsp;&nbsp;<b>Development-Frameworks</b> </br>
 &nbsp;&nbsp;&nbsp;React </br>
 &nbsp;&nbsp;&nbsp;Django </br>
+&nbsp;&nbsp;&nbsp;Gatsby </br>
 &nbsp;&nbsp;&nbsp;Spring </br>
 &nbsp;&nbsp;&nbsp;Angular </br>
 &nbsp;&nbsp;&nbsp;Vue.js </br>
