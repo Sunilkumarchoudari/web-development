@@ -50,6 +50,7 @@
 &nbsp;&nbsp;&nbsp;Aws </br>
 &nbsp;&nbsp;&nbsp;Azure, Linode </br>
 &nbsp;&nbsp;&nbsp;Heroku, Digital Ocean </br>
+&nbsp;&nbsp;&nbsp;Netlify </br>
 
 <h1>Git-Cheat-Sheet</h1> </br>
 &nbsp;&nbsp;<b>Git: Configuration</b> </br>
